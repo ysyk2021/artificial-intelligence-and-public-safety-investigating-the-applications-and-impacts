@@ -14,7 +14,7 @@ Finally, we outline the structure of the book and provide an overview of the sub
 
 Overall, this book aims to provide a comprehensive overview of the role of intelligent technologies in improving public safety and emergency management. By exploring the intersection of AI and public safety, we hope to inspire new ideas and innovations that will help to address the challenges faced by communities and individuals in emergency situations.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
