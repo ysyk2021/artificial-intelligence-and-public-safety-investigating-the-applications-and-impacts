@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Public Safety
-==================================================================
 
 As the use of artificial intelligence (AI) in public safety continues to grow, it is important to consider the ethical and legal implications of these technologies. In this chapter, we will explore the ethical and legal issues related to AI in public safety.
 

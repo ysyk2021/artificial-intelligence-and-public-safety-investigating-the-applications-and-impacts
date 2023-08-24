@@ -1,5 +1,3 @@
-Legal Framework
-===================================================================================
 
 As the use of AI in public safety continues to grow, it is important to consider the legal implications of these technologies. In this chapter, we will explore some of the key legal considerations related to AI in public safety.
 

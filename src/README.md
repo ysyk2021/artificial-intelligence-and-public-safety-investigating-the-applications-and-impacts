@@ -1,4 +1,3 @@
-# Introduction
 
 Public safety is a critical concern for governments, organizations, and individuals around the world. From natural disasters to criminal activity, emergencies can have significant impacts on communities and individuals. Artificial intelligence (AI) has emerged as a promising tool to address these challenges by providing intelligent solutions to emergency management.
 

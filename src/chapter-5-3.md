@@ -1,5 +1,3 @@
-Post-Disaster Recovery and Reconstruction
-========================================================================================
 
 While much of the focus on AI in public safety has been on emergency response and prevention, there is also significant potential for AI to assist in post-disaster recovery and reconstruction efforts. In this chapter, we will explore some of the AI-powered public safety solutions that can be used to aid in these efforts.
 

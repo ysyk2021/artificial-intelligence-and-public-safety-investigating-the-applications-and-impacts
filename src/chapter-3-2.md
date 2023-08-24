@@ -1,5 +1,3 @@
-Components of Public Safety
-===============================================================
 
 Public safety is a critical component of any community, and it encompasses a wide range of activities and initiatives aimed at maintaining and promoting the well-being of citizens. In this chapter, we will explore the key components of public safety and how they are essential for ensuring the safety and security of communities.
 

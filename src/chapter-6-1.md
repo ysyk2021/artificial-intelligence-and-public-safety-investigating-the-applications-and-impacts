@@ -1,5 +1,3 @@
-Ethical Considerations
-==========================================================================================
 
 As the use of AI in public safety continues to grow, it is important to consider the ethical and legal implications of these technologies. In this chapter, we will explore some of the ethical considerations related to AI in public safety.
 

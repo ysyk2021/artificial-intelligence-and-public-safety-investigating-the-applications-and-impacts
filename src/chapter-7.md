@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Public Safety
-=========================================
 
 As artificial intelligence (AI) continues to evolve and mature, its potential applications in public safety are expanding. In this chapter, we will explore the emerging trends and future prospects for AI in public safety.
 

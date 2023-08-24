@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Public Safety
-=========================================================================================
 
 While the benefits of artificial intelligence (AI) in public safety are numerous, there are also several challenges and limitations that must be considered. In this chapter, we will explore these challenges and discuss some of the limitations of AI in public safety.
 

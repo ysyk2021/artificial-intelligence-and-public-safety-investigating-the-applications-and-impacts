@@ -1,5 +1,3 @@
-Situational Awareness and Crisis Management
-==========================================================================================
 
 In this chapter, we will explore the various AI-powered solutions that are transforming situational awareness and crisis management in public safety. We will discuss how machine learning algorithms and other intelligent technologies are helping emergency responders and organizations to detect, monitor, and respond to crises more effectively.
 

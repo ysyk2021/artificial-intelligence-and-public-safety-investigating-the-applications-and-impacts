@@ -1,5 +1,3 @@
-Global Trends in Emergency Management and Response
-======================================================================================
 
 While the components of public safety may vary from country to country, there are several global trends in emergency management and response that are shaping the future of public safety. In this chapter, we will explore these trends and discuss how they are being addressed through the use of intelligent technologies.
 

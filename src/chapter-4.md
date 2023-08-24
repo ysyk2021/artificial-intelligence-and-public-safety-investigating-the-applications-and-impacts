@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Public Safety
-======================================
 
 Artificial intelligence (AI) is increasingly being used in public safety to enhance emergency management and response. From predicting and preventing emergencies to improving situational awareness and communication among first responders, AI has the potential to transform the way we ensure public safety. In this chapter, we will explore the benefits and challenges of using AI in public safety.
 

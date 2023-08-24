@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To better understand the applications and impacts of artificial intelligence (AI) in public safety, it is important to have a solid understanding of the background and fundamentals of AI. In this chapter, we will explore the history of AI, the types of AI, and the machine learning techniques that underpin much of modern AI.
 

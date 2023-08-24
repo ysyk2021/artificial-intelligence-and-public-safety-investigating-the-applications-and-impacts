@@ -1,5 +1,3 @@
-Benefits of AI in Public Safety
-=======================================================================
 
 Artificial intelligence (AI) is transforming the field of public safety. AI technologies are being used to improve the accuracy and speed of emergency responses, reduce costs and improve operational efficiency, and enhance overall public safety outcomes. In this chapter, we will explore the benefits of AI in public safety.
 

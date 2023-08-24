@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field of computer science that focuses on developing systems that can perform tasks that normally require human intelligence, such as recognizing patterns, making predictions, and understanding natural language. One of the key techniques driving the development of AI is machine learning (ML).
 

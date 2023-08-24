@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Public Safety Solutions
-=============================================
 
 Artificial intelligence (AI) is transforming the field of public safety, offering new ways to predict and prevent emergencies, enhance situational awareness, and improve communication and coordination among first responders. In this chapter, we will explore some of the key AI-powered solutions that are being used in public safety today.
 

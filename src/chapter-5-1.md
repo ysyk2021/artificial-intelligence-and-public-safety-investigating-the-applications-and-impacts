@@ -1,5 +1,3 @@
-Disaster Prediction and Response Planning
-========================================================================================
 
 In this chapter, we will explore how artificial intelligence (AI) is being used to predict disasters and plan response efforts in public safety. We will discuss the various AI-powered solutions that are transforming disaster prediction and response planning and their potential impact on emergency management.
 

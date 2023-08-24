@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The field of artificial intelligence (AI) is rapidly evolving, with new applications and technologies emerging on a regular basis. In recent years, AI has become increasingly important in the field of public safety, with agencies around the world using intelligent technologies to enhance emergency management and response.
 

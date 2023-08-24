@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a broad and rapidly evolving field, encompassing a wide range of technologies and techniques. In this chapter, we will discuss the various types of AI and their applications in public safety.
 

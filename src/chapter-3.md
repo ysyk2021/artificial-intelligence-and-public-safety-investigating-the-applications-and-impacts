@@ -1,5 +1,3 @@
-Chapter 3: Public Safety Landscape
-==================================
 
 To better understand the applications and impacts of artificial intelligence (AI) in public safety, it is important to examine the landscape of public safety. In this chapter, we will explore the global trends in emergency management and response, as well as the components of public safety.
 

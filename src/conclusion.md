@@ -1,4 +1,3 @@
-# Conclusion
 
 Artificial intelligence (AI) has the potential to transform emergency management and response, offering new ways to improve public safety and protect communities. However, as we have seen throughout this book, there are also significant challenges and risks associated with the use of intelligent technologies in emergency management.
 
