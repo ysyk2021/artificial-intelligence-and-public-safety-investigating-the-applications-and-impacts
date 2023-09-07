@@ -12,3 +12,7 @@ Finally, we outline the structure of the book and provide an overview of the sub
 Overall, this book aims to provide a comprehensive overview of the role of intelligent technologies in improving public safety and emergency management. By exploring the intersection of AI and public safety, we hope to inspire new ideas and innovations that will help to address the challenges faced by communities and individuals in emergency situations.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
