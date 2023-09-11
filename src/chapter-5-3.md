@@ -1,5 +1,4 @@
-Chapter: Post-Disaster Recovery and Reconstruction
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the aftermath of a disaster, effective and efficient recovery and reconstruction are crucial for restoring normalcy and resilience in affected communities. Artificial Intelligence (AI) technologies have the potential to play a significant role in expediting and optimizing the post-disaster recovery process. In this chapter, we explore the applications and impacts of AI in post-disaster recovery and reconstruction efforts.
 

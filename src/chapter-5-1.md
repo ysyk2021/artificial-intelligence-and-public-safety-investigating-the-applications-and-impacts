@@ -1,5 +1,4 @@
-Chapter: Disaster Prediction and Response Planning
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Disaster prediction and response planning are crucial components of effective emergency management. Artificial Intelligence (AI) technologies have the potential to improve the accuracy of disaster prediction and optimize response planning strategies. In this chapter, we explore the applications and impacts of AI in disaster prediction and response planning.
 

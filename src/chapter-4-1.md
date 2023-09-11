@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Public Safety
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has the potential to revolutionize public safety and emergency management. In this chapter, we explore the numerous benefits that AI brings to the field of public safety.
 

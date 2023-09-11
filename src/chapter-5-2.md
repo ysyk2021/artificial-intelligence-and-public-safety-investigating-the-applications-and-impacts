@@ -1,5 +1,4 @@
-Chapter: Situational Awareness and Crisis Management
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Situational awareness is critical for effective crisis management, enabling officials to make informed decisions and respond swiftly to evolving emergency situations. Artificial Intelligence (AI) technologies can support situational awareness and enhance crisis management capabilities. In this chapter, we explore the applications and impacts of AI in situational awareness and crisis management.
 

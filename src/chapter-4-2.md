@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Public Safety
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While Artificial Intelligence (AI) offers numerous benefits in public safety and emergency management, there are also several challenges and limitations that need to be addressed. In this chapter, we explore these challenges and limitations to provide a comprehensive understanding of the current state of AI in public safety.
 

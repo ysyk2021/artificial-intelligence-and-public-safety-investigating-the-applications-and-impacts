@@ -1,5 +1,4 @@
-Chapter: Global Trends in Emergency Management and Response
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of emergency management and response is constantly evolving to address new and emerging challenges. Artificial Intelligence (AI) technologies play a significant role in shaping global trends in this domain, enabling more effective and efficient strategies. In this chapter, we explore the key global trends in emergency management and response that are driven or influenced by AI.
 

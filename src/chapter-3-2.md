@@ -1,5 +1,4 @@
-Chapter: Components of Public Safety
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Public safety encompasses a wide range of activities and initiatives aimed at ensuring the well-being and security of individuals and communities. Artificial Intelligence (AI) technologies have the potential to enhance various components of public safety, from emergency response to crime prevention. In this chapter, we explore the applications and impacts of AI in different components of public safety.
 

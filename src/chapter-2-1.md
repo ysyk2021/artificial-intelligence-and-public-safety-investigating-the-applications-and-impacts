@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a rapidly evolving field that has transformed many aspects of modern life, including public safety and emergency management. In this chapter, we provide an overview of the history of AI, from its origins to current developments.
 

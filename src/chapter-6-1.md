@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) in public safety and emergency management raises significant ethical considerations. In this chapter, we explore the ethical implications of AI-based systems in public safety.
 

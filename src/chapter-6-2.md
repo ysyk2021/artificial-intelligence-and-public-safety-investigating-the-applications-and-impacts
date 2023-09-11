@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and intelligent technologies in emergency management raises important legal considerations. In this chapter, we explore the legal framework surrounding the applications and impacts of AI in public safety.
 
